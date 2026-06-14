@@ -1,16 +1,34 @@
-## Hi there 👋
+# 嗨,我是 Kitty 👋
 
-<!--
-**mathmap-kitty/mathmap-kitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+一位高中數學老師,在這裡整理我的教學作品與心得。
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 我相信的事
+
+> 教學不是把知識塞給學生,
+> 是給他們一張地圖,讓他們知道自己在哪、要去哪。
+
+- **陪伴比講解重要** —— 願意陪一個學生想透一題,勝過教完十題
+- **結構比技巧重要** —— 知道概念怎麼串起來,比會解某一題重要
+- **理解比刷題重要** —— 一題真懂,勝過十題會做
+
+---
+
+## 我正在做的事
+
+📘 **大考數學概念地圖**(撰寫中)
+從大考反推回來的高中數學學習指南。
+寫給「聽得懂但做不出來」的學生與想陪孩子的家長。
+
+---
+
+## 怎麼找到我
+
+- 📧 Email: mathmap.kitty@gmail.com
+- 🌐 更多內容: 籌備中
+
+---
+
+> 📌 這裡是我的數位筆記本。
+> 內容會慢慢長大,歡迎你來看看。
